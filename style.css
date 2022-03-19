@@ -25,3 +25,7 @@ canvas
     border-radius:20px;
     box-shadow: 5px 5px 5px grey;
 }
+#square_side{
+    font-size: 18px;
+    color:black;
+}
